@@ -1,0 +1,75 @@
+@-moz-document url-prefix("https://ilias.hs-heilbronn.de") {
+body {
+    background-color: #202020 !important;
+    color: #FFFFFF !important;
+}
+
+.ilMainHeader {
+    background-color: #555555 !important;
+    border-bottom: 0px;
+}
+
+#left_nav {
+    background-color: #AAAAAA !important;
+    color: #FFFFFF !important;
+}
+#imgtree {
+    background-color: #555555 !important;
+}
+
+.dropdown-menu {
+    background-color: #AAAAAA !important;
+}
+
+.dropdown {
+    background-color: #555555 !important;
+}
+.dropup {
+    background-color: #555555 !important;
+}
+#ilTopNav .navbar-nav > li > a {
+    border-color: transparent !important;
+}
+#ilTopNav .navbar-nav > .active > a, #ilTopNav .navbar-nav > .open > a, #ilTopNav .navbar-nav > .active > a:hover, #ilTopNav .navbar-nav > .open > a:hover, #ilTopNav .navbar-nav > .active > a:active, #ilTopNav .navbar-nav > .open > a:active, #ilTopNav .navbar-nav > .active > a:focus, #ilTopNav .navbar-nav > .open > a:focus {
+    background-color: #AAAAAA !important;
+    color: #3a66a8 !important;
+}
+
+#il_center_col div.il_Block {
+    background-color: #555555 !important;
+    color: white !important;
+}
+#il_left_col div.il_Block {
+    background-color: #555555 !important;
+    color: white !important;
+}
+#il_right_col div.il_Block {
+    background-color: #555555 !important;
+    color: white !important;
+}
+.calmini {
+    background-color: #555555 !important;
+}
+.ilBlockHeader {
+    color: white !important;
+}
+.ilCLI {
+    background-color: #555555 !important;
+}
+.ilBlockInfo {
+    background-color: #555555 !important;
+}
+
+a.ilTreeView > img {
+    border-right: 0px solid #e0e0e0;
+    background-color: #555555 !important;
+}
+
+a.ilTreeView {
+    border: 0px;
+}
+
+a {
+    color: #b1d1ff !important;
+}
+}
