@@ -1,8 +1,11 @@
 /* ==UserStyle==
-@name Ilias Dark Theme
-@version 1
-@namespace https://github.com/crexodon
-@license MIT
+@name           Ilias Dark Theme
+@description    Dark Theme for the Ilias university website
+@version        1
+@author         crexodon
+@preprocessor   stylus
+@namespace      https://github.com/crexodon
+@license        MIT
 ==/UserStyle== */
 @-moz-document url-prefix("https://ilias.hs-heilbronn.de") {
 body {
