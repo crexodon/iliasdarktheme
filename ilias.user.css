@@ -44,6 +44,55 @@ body {
     color: #3a66a8 !important;
 }
 
+.form-horizontal {
+    background-color: #AAAAAA
+}
+
+.ilFormHeader {
+    background-color: #AAAAAA !important;
+}
+
+div.ilTableCommandRow, div.ilTableCommandRowTop {
+    background-color: #AAAAAA !important;
+}
+
+.table > thead > tr > th {
+    background-color: #AAAAAA !important;
+}
+
+tr, td {
+    background-color: #AAAAAA !important;
+}
+
+td, th {
+    background-color: #AAAAAA !important;
+}
+
+.ilFormHeader h3 {
+    color: #FFFFFF !important;
+}
+
+.ilInfoScreenSec.form-horizontal .form-group {
+    background-color: #AAAAAA !important;
+    color: #FFFFFF;
+}
+
+div.ilProfile {
+    background-color: #555555 !important;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: #555555
+}
+
+.il_InfoScreenPropertyValue {
+    background-color: #AAAAAA !important
+}
+
+.ilFormFooter {
+    background-color: #AAAAAA !important;
+}
+
 #il_center_col div.il_Block {
     background-color: #555555 !important;
     color: white !important;
